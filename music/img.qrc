@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.png</file>
+        <file>img/left.png</file>
+        <file>img/max.png</file>
+        <file>img/maxm.png</file>
+        <file>img/min.png</file>
+        <file>img/right.png</file>
+        <file>img/title.jpg</file>
+        <file>img/logo.png</file>
+        <file>img/logo2.png</file>
+        <file>img/search.png</file>
+        <file>img/searchb.png</file>
+        <file>img/searchr.png</file>
+        <file>img/min1.png</file>
+        <file>img/nextmusic.png</file>
+        <file>img/playmusic.png</file>
+        <file>img/premusic.png</file>
+        <file>img/stopmusic.png</file>
+        <file>img/locmusic.png</file>
+        <file>img/bluecircle.png</file>
+        <file>img/silence.png</file>
+        <file>img/volume.png</file>
+        <file>img/circulateplay.png</file>
+        <file>img/listplay.png</file>
+        <file>img/randomplay.png</file>
+        <file>img/lrc.png</file>
+        <file>img/mymusic.png</file>
+        <file>img/mymusic2.png</file>
+        <file>img/timg.jpg</file>
+        <file>img/qqmusic.png</file>
+        <file>img/mobileipod.png</file>
+        <file>img/111.png</file>
+    </qresource>
+</RCC>
